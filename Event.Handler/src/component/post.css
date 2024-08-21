@@ -1,0 +1,15 @@
+.post{
+    width: 56%;
+    margin: 30px auto;
+    text-align: center;
+    color: rgb(209, 190, 190);
+    border: 2px solid rgb(196, 160, 146);
+    padding: 20px;
+    
+}
+.btn{
+    background-color: rgb(206, 221, 221);
+    position: absolute;
+    top: 10%;
+    left: 43%;
+}
