@@ -1,0 +1,289 @@
+{
+  "Product": [
+    {
+      "id": "1",
+      "title": "Mulholland Motorcycle Jacket",
+      "image": "https://cdn.shopify.com/s/files/1/0218/9988/files/m_mulholland_rb_02.jpg?v=1712189468&width=2560&height=3328&crop=center",
+      "category": "new",
+      "description": "Waterproof with D3O® Ghost™ padding",
+      "Color": " Reserve Brown",
+      "price": "$650.00"
+    },
+    {
+      "id": "4",
+      "title": "Storm All-Weather Jacket",
+      "image": "https://cdn.shopify.com/s/files/1/0218/9988/files/m_storm_allweather_jacket_bone_01.jpg?v=1710969087&width=2560&height=3328&crop=center",
+      "category": "back in stock",
+      "description": "Waterproof & wind-resistant with pouch ",
+      "Color": "Bone",
+      "price": "$120.00"
+    },
+    {
+      "id": "10",
+      "title": "Anders Rain",
+      "image": "https://cdn.shopify.com/s/files/1/0218/9988/products/m_moto_boot_tan_01.jpg?v=1661887933&width=1024&height=1331&crop=center",
+      "category": "new",
+      "description": "waterproof & wind-resistant  ",
+      "Color": "Onyx Black",
+      "price": "$500.00"
+    },
+    {
+      "id": "7",
+      "title": "Stanton Technical Jacket",
+      "image": "https://cdn.shopify.com/s/files/1/0218/9988/files/m_stanton_jacket_hg_03.jpg?v=1693589083&width=2560&height=3328&crop=center",
+      "category": "",
+      "description": "Water-repellent, technical thermal layer ",
+      "Color": "Charcoal Heather",
+      "price": "$495.00"
+    },
+    {
+      "id": "9",
+      "title": "Anders Rain",
+      "image": "https://cdn.shopify.com/s/files/1/0218/9988/products/m_moto_boot_tan_01.jpg?v=1661887933&width=1024&height=1331&crop=center",
+      "category": "new",
+      "description": "waterproof & wind-resistant  ",
+      "Color": "Onyx Black",
+      "price": "$500.00"
+    },
+    {
+      "id": "silverton_down_jacket",
+      "title": "Silverton Down Jacket",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0218/9988/files/m_silverton_jacket_cg_01.jpg?v=1697751997&width=2560&height=3328&crop=center",
+        "https://cdn.shopify.com/s/files/1/0218/9988/files/m_silverton_jacket_cg_02.jpg?v=1697751997&width=2560&height=3328&crop=center",
+        "https://cdn.sanity.io/images/e5o7qwlw/production/353487c249ebe6891615c1dc306ab15796263c8c-100x100.png?w=2560&h=2560&q=75&auto=format"
+      ],
+      "category": "insulated, waterproof hybrid",
+      "description": "Color: Command Green",
+      "price": "$625.00",
+      "url": "https://aetherapparel.com/products/silverton-down-jacket-command-green"
+    },
+    {
+      "id": "endeavor_jacket",
+      "title": "Endeavor Jacket",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0218/9988/products/m_endeavor_jacket_dg_01.jpg?v=1661885187&width=2560&height=3328&crop=center",
+        "https://cdn.shopify.com/s/files/1/0218/9988/products/m_endeavor_jacket_dg_02.jpg?v=1661885188&width=2560&height=3328&crop=center",
+        "https://cdn.shopify.com/s/files/1/0218/9988/products/m_endeavor_jacket_dg_03.jpg?v=1661885189&width=2560&height=3328&crop=center",
+        "https://cdn.shopify.com/s/files/1/0218/9988/products/m_endeavor_jacket_dg_04.jpg?v=1661885190&width=2560&height=3328&crop=center",
+        "https://cdn.sanity.io/images/e5o7qwlw/production/e83bec98aae1fbf0a248d8631062008c4904ff5b-44x44.png?w=2560&h=2560&q=75&auto=format"
+      ],
+      "category": "wind-resistant",
+      "description": "Color: Duffle Green",
+      "price": "$655.00",
+      "url": "https://aetherapparel.com/products/endeavor-jacket-duffle-green"
+    },
+    {
+      "id": "phase_full_zip",
+      "title": "Phase Full-Zip",
+      "image": [
+        "https://cdn.shopify.com/s/files/1/0218/9988/files/m_phase_jacket_ob_02.jpg?v=1697664998&width=2560&height=3328&crop=center",
+        "https://cdn.shopify.com/s/files/1/0218/9988/files/m_phase_jacket_ob_01.jpg?v=1697664998&width=2560&height=3328&crop=center",
+        "https://cdn.sanity.io/images/e5o7qwlw/production/31f34d5c8eda5a9653e7a1085242c385f81f140d-44x44.png?w=2560&h=2560&q=75&auto=format"
+      ],
+      "category": "Versatile, insulated layer",
+      "description": "Color: Onyx Black",
+      "price": "$595.00",
+      "url": "https://aetherapparel.com/products/m-phase-full-zip-onyx-black"
+    },
+    {
+      "id": "77e9",
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-sm-s921blbcins-thumb-539572328",
+      "title": "Samsung ",
+      "price": " 75,000",
+      "category": "electronic",
+      "description": "Samsung Galaxy s23 "
+    },
+    {
+      "id": "7db2",
+      "image": "https://m.media-amazon.com/images/I/31VjlrbE3bL._SY445_SX342_QL70_FMwebp_.jpg",
+      "title": "Iphone",
+      "price": "55,000",
+      "category": "Electronic",
+      "description": "IPHONE 13"
+    },
+    {
+      "id": "b6fc",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRGN3fxh4i_LjPLUo19IzMl0dnLV95IuFo1bBVt3DH8vefXYIihluAppGNM5DHYSTcPCisJwG2hqtEwAzwBQQTWpzA-tGRRWW5TSYCTcvYlyzMXIrK7IRz8u4zKzd4V-FwCwdlUkpK0Bg&usqp=CAc",
+      "title": "Iphone 16",
+      "price": "79.999$",
+      "category": "electronic",
+      "description": "Apple"
+    }
+  ],
+  "Womenproduct": [
+    {
+      "id": "c-fkKuFs",
+      "images": "https://cdn.shopify.com/s/files/1/0218/9988/files/w_kite_packable_rainponcho_ob_02.jpg?v=1710985153&width=2560&height=3328&crop=center",
+      "category": "Kite Packable Rain Poncho",
+      "description": "Lightweight, protective & packable",
+      "price": "$243.75"
+    },
+    {
+      "id": "c-PJLV",
+      "images": "https://cdn.shopify.com/s/files/1/0218/9988/files/w_kite_lightweight_jacket_sg_01.jpg?v=1711044353&width=2560&height=3328&crop=center",
+      "category": "Kite Lightweight Jacket",
+      "description": "Windproof & versatile layer",
+      "price": "$221.25"
+    },
+    {
+      "id": "c-gJIOcp",
+      "images": "https://cdn.shopify.com/s/files/1/0218/9988/products/w_topanga_anorak_mo_01_2f3162df-307f-49f5-9e9f-ab04f4763f83.jpg?v=1680732391&width=2560&height=3328&crop=center",
+      "category": "Topanga Lightweight Anorak",
+      "description": "Anorak with statement high neck collar",
+      "price": "$150.00"
+    },
+    {
+      "id": "c-gJIOcp 2",
+      "images": "https://cdn.shopify.com/s/files/1/0218/9988/files/w_terrain_fleece_anorak_fb_02.jpg?v=1711045957&width=2560&height=3328&crop=center",
+      "category": "Terrain Fleece Anorak",
+      "description": "Recycled Sherpa Fleece Inside & Out",
+      "price": "$207.00",
+      "title": "Hoodie blue"
+    },
+    {
+      "id": "c-bwBGJj",
+      "images": "https://cdn.shopify.com/s/files/1/0218/9988/files/w_halley_jacket_wht_03.jpg?v=1696885149&width=2560&height=3328&crop=center",
+      "category": "Halley Jacket",
+      "description": "Italian woven & water-resistant",
+      "price": "$262.50"
+    },
+    {
+      "id": "Image src 3",
+      "images": "https://cdn.shopify.com/s/files/1/0218/9988/files/w_elouise_travel_jacket_bone_01.jpg?v=1711049233&width=2560&height=3328&crop=center",
+      "category": "Eloise Travel Jacket",
+      "description": "Designed for travel & all-day comfort",
+      "price": "$243.75"
+    },
+    {
+      "id": "Image src 5",
+      "images": "https://cdn.shopify.com/s/files/1/0218/9988/files/w_sahara_jacket_te_05.jpg?v=1696960796&width=2560&height=3328&crop=center",
+      "category": "Sahara Cotton Jacket",
+      "description": "100% cotton with removable sleeves",
+      "price": "$150.00",
+      "title": "Jacket of leather"
+    },
+    {
+      "id": "Image src 6",
+      "images": "https://cdn.shopify.com/s/files/1/0218/9988/products/w_foundation_hoodie_hg_01.jpg?v=1663532942&width=2560&height=3328&crop=center",
+      "category": "Kite Packable Rain Poncho",
+      "description": "Cotton-blended with refined details",
+      "price": "$117.00"
+    },
+    {
+      "id": "Image src 6",
+      "images": "https://cdn.shopify.com/s/files/1/0218/9988/products/w_anning_vest_cg_01.jpg?v=1679339799&width=420&height=546&crop=center",
+      "category": "Foundation ",
+      "description": "Kite Lightweight Jacket",
+      "price": "$180.00"
+    },
+    {
+      "id": "Image src 6",
+      "title": "Anders Rain",
+      "images": "https://cdn.shopify.com/s/files/1/0218/9988/products/w_dalton_lotop_sneaker_blk_01.jpg?v=1661887794&width=420&height=546&crop=center",
+      "category": "new",
+      "description": "waterproof & wind-resistant  ",
+      "Color": "Onyx Black",
+      "price": "$500.00"
+    }
+  ],
+  "cart": [
+    {
+      "id": "4",
+      "title": "Storm All-Weather Jacket",
+      "image": "https://cdn.shopify.com/s/files/1/0218/9988/files/m_storm_allweather_jacket_bone_01.jpg?v=1710969087&width=2560&height=3328&crop=center",
+      "category": "back in stock",
+      "description": "Waterproof & wind-resistant with pouch ",
+      "Color": "Bone",
+      "price": "$120.00"
+    },
+    {
+      "id": "4",
+      "title": "Storm All-Weather Jacket",
+      "image": "https://cdn.shopify.com/s/files/1/0218/9988/files/m_storm_allweather_jacket_bone_01.jpg?v=1710969087&width=2560&height=3328&crop=center",
+      "category": "back in stock",
+      "description": "Waterproof & wind-resistant with pouch ",
+      "Color": "Bone",
+      "price": "$120.00"
+    },
+    {
+      "id": "4",
+      "title": "Storm All-Weather Jacket",
+      "image": "https://cdn.shopify.com/s/files/1/0218/9988/files/m_storm_allweather_jacket_bone_01.jpg?v=1710969087&width=2560&height=3328&crop=center",
+      "category": "back in stock",
+      "description": "Waterproof & wind-resistant with pouch ",
+      "Color": "Bone",
+      "price": "$120.00"
+    },
+    {
+      "id": "4",
+      "title": "Storm All-Weather Jacket",
+      "image": "https://cdn.shopify.com/s/files/1/0218/9988/files/m_storm_allweather_jacket_bone_01.jpg?v=1710969087&width=2560&height=3328&crop=center",
+      "category": "back in stock",
+      "description": "Waterproof & wind-resistant with pouch ",
+      "Color": "Bone",
+      "price": "$120.00"
+    },
+    {
+      "id": "4",
+      "title": "Storm All-Weather Jacket",
+      "image": "https://cdn.shopify.com/s/files/1/0218/9988/files/m_storm_allweather_jacket_bone_01.jpg?v=1710969087&width=2560&height=3328&crop=center",
+      "category": "back in stock",
+      "description": "Waterproof & wind-resistant with pouch ",
+      "Color": "Bone",
+      "price": "$120.00"
+    },
+    {
+      "id": "7",
+      "title": "Stanton Technical Jacket",
+      "image": "https://cdn.shopify.com/s/files/1/0218/9988/files/m_stanton_jacket_hg_03.jpg?v=1693589083&width=2560&height=3328&crop=center",
+      "category": "",
+      "description": "Water-repellent, technical thermal layer ",
+      "Color": "Charcoal Heather",
+      "price": "$495.00"
+    },
+    {
+      "id": "7",
+      "title": "Stanton Technical Jacket",
+      "image": "https://cdn.shopify.com/s/files/1/0218/9988/files/m_stanton_jacket_hg_03.jpg?v=1693589083&width=2560&height=3328&crop=center",
+      "category": "",
+      "description": "Water-repellent, technical thermal layer ",
+      "Color": "Charcoal Heather",
+      "price": "$495.00"
+    },
+    {
+      "id": "9",
+      "title": "Anders Rain",
+      "image": "https://cdn.shopify.com/s/files/1/0218/9988/products/m_moto_boot_tan_01.jpg?v=1661887933&width=1024&height=1331&crop=center",
+      "category": "new",
+      "description": "waterproof & wind-resistant  ",
+      "Color": "Onyx Black",
+      "price": "$500.00"
+    },
+    {
+      "id": "cb70",
+      "image": "https://cdn.shopify.com/s/files/1/0218/9988/products/yosemite_matteblack_01.jpg?v=1680817773&width=420&height=546&crop=center",
+      "title": "Sun Glasses",
+      "price": "$ 25",
+      "category": "Anthices",
+      "description": "Protect the eyes in sun Rays"
+    },
+    {
+      "id": "6",
+      "title": "Baxter Jacket",
+      "image": "https://cdn.shopify.com/s/files/1/0218/9988/files/m_baxter_jacket_fg_02.jpg?v=1710966919&width=2560&height=3328&crop=center",
+      "category": "new",
+      "description": "Hand-dyed, Japanese ripstop fabric ",
+      "Color": "Mineral Green",
+      "price": "$425.00"
+    },
+    {
+      "id": "b6fc",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRGN3fxh4i_LjPLUo19IzMl0dnLV95IuFo1bBVt3DH8vefXYIihluAppGNM5DHYSTcPCisJwG2hqtEwAzwBQQTWpzA-tGRRWW5TSYCTcvYlyzMXIrK7IRz8u4zKzd4V-FwCwdlUkpK0Bg&usqp=CAc",
+      "title": "Iphone 16",
+      "price": "79.999$",
+      "category": "electronic",
+      "description": "Apple"
+    }
+  ]
+}
