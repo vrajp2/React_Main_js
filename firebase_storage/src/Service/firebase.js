@@ -16,7 +16,11 @@ const firebaseConfig = {
   appId: "1:603922272667:web:3ba70706c36736c648d13e",
   measurementId: "G-77L10VYPG1"
 };
-
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
  export  const db = getFirestore(app);
+
+
+
+
+

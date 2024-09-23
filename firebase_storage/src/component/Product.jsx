@@ -11,6 +11,7 @@ function fetchdata(){
   .then((res)=>{
     let newarray=res.docs.map((el)=>(({...el.data(),id:el.id})))
     setdata(newarray)
+    console.log(newarray)
 
   }).catch((err)=>{
     console.log(err)
